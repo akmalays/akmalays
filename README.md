@@ -50,7 +50,7 @@ I'm a Frontend developer dedicated to creating stunning, high-performance, and u
 
 ### 🌐 Let's Connect
 - 🌏 [Portfolio Website](https://akmalaysportofolio.vercel.app)
-- 💼 [LinkedIn] ([Ganti dengan link Anda](http://linkedin.com/in/akmalays))
+- 💼 [LinkedIn] (http://linkedin.com/in/akmalays)
 
 ---
 *"Good design is obvious. Great design is transparent."*
