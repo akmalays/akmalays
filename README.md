@@ -45,8 +45,10 @@ I'm a Frontend developer dedicated to creating stunning, high-performance, and u
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akmalays&layout=compact&theme=tokyonight" alt="top languages" />
 </p>
 ---
+
 ### 🌐 Let's Connect
-- 🌏 [Portfolio Website](akmalaysportofolio.vercel.app)
+- 🌏 [Portfolio Website](http://akmalaysportofolio.vercel.app)
 - 💼 [LinkedIn] (http://linkedin.com/in/akmalays)
+- 
 ---
 *"Good design is obvious. Great design is transparent."*
