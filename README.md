@@ -39,18 +39,14 @@ I'm a Frontend developer dedicated to creating stunning, high-performance, and u
 - 📱 Building **Scalable Frontends** with clean, modular architecture.
 
 ---
-
 ### 📈 GitHub Status
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=akmalays&show_icons=true&theme=tokyonight" alt="akmalays github stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akmalays&layout=compact&theme=tokyonight" alt="top languages" />
 </p>
-
 ---
-
 ### 🌐 Let's Connect
-- 🌏 [Portfolio Website](https://akmalaysportofolio.vercel.app)
+- 🌏 [Portfolio Website](akmalaysportofolio.vercel.app)
 - 💼 [LinkedIn] (http://linkedin.com/in/akmalays)
-
 ---
 *"Good design is obvious. Great design is transparent."*
